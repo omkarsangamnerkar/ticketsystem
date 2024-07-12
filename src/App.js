@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import SearchComponent from './search.js'
 
 function App() {
   return (
@@ -16,9 +17,12 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+        
         </a>
+         <SearchComponent/>
       </header>
     </div>
+    
   );
 }
 

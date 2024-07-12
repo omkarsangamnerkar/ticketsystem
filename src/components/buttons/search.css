@@ -1,0 +1,19 @@
+/* SearchComponent.css */
+form {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
